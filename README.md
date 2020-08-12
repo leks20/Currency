@@ -1,2 +1,1 @@
-# Currency
-Dollar exchange rate
+## Парсер курса валюты (библиотека BeautifulSoup)
